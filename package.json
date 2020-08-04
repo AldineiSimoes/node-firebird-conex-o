@@ -1,0 +1,19 @@
+{
+  "name": "abimob",
+  "version": "1.0.0",
+  "description": "Servidor administração de imoveis",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "node-firebird": "^0.9.3"
+  },
+  "devDependencies": {},
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Aldinei Simões",
+  "license": "ISC"
+}
